@@ -102,3 +102,16 @@ Temporary Items
 
 # Jetbrains / PyCharm
 .idea/
+
+# --- Docker and Large Artifacts ---
+*.tar
+*.tar.gz
+*.tgz
+*.img
+*.zip
+*.csv
+*.mp4
+*.pkl
+*.pt
+*.h5
+*.log
